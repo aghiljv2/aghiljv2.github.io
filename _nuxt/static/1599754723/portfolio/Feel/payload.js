@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/portfolio/Feel", {data:[{}],fetch:[],mutations:[["pageTitle\u002Fset","PORTFOLIO"]]});
