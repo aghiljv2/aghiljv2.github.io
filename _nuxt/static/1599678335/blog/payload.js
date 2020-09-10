@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog", (function(a,b){return {data:[{blogs:[{title:a,slug:a},{title:b,slug:b}]}],fetch:[],mutations:void 0}}("blogpost2","blogpost1")));
