@@ -1,0 +1,1 @@
+import"./BW3xJdEx.js";import"#entry";Object.fromEntries(Object.entries({w:`width`,h:`height`,c:`component`,em:`emojis`,k:`key`,a:`alt`,u:`url`,cache:`cacheMaxAgeSeconds`,p:`_path`,q:`_query`,ch:`_componentHash`}).map(([e,t])=>[t,e]));
